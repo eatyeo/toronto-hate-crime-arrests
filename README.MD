@@ -42,9 +42,9 @@ response by religious-bias status.
 
 ## Data
 Toronto Police Service, Hate Crime Open Data — confirmed hate-crime occurrences
-investigated by the Hate Crime Unit, reported 2018–2024 (last updated July 2024).
-Analysis covers 2,019 incidents after excluding 22 uncategorizable "Other"
-offences. Released under the Open Government Licence – Ontario.
+investigated by the Hate Crime Unit, with occurrence dates from August 2014 to
+December 2025. Released under the Open Government Licence – Ontario. Analysis
+covers 2,019 incidents after excluding 22 uncategorizable "Other" offences.
 
 ## Method
 Logistic regression used for inference, not prediction: arrest modelled on
