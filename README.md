@@ -7,6 +7,8 @@ Religious-bias hate crimes in Toronto are arrested at roughly half the rate of o
 ## Finding
 The raw arrest gap is largely explained by offence composition rather than differential police response. In a logistic regression, the raw association between religious bias and lower arrest (odds ratio 0.43, p < 0.001) does not survive controlling for offence type (OR 0.86, 95% CI [0.67–1.12], p = 0.26). The confidence interval crosses 1.0, so any residual association is not statistically detectable. Religious-bias hate crimes concentrate in low-clearing property mischief; once offence type is accounted for, no statistically detectable difference in arrest rate by religious-bias status remains.
 
+![Arrest rate by offence type and religious-bias status](figures/arrest_by_offence.png)
+
 The effect is not uniform across offence types, and the variation is itself the more informative result. Within offence categories the gap vanishes for mischief, reverses for violent crime, and persists for threats (a partial exception). Propaganda has too few cases to interpret and is shown with sample sizes for transparency. The pooled estimate averages over strata that disagree, so the single-number summary understates what is actually going on: the disparity is not one phenomenon but several, and offence composition is what makes them sum to a near-null overall.
 
 ## Scope and limitations
