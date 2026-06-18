@@ -46,6 +46,10 @@ investigated by the Hate Crime Unit, with occurrence dates from August 2014 to
 December 2025. Released under the Open Government Licence – Ontario. Analysis
 covers 2,019 incidents after excluding 22 uncategorizable "Other" offences.
 
+Source: [Toronto Police Service Hate Crime Open Data](https://data.tps.ca/datasets/TorontoPS::hate-crimes-open-data/about)
+(Open Government Licence – Ontario). The exact snapshot analyzed is included in
+`data/raw/` for reproducibility.
+
 ## Method
 Logistic regression used for inference, not prediction: arrest modelled on
 religious-bias status, with and without controlling for offence type, reading
